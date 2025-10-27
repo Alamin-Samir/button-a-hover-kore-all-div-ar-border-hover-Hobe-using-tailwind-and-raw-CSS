@@ -1,0 +1,13 @@
+.hire-btn:hover{
+
+background-color: aqua;
+
+}
+
+
+.parent:has(.hire-btn:hover){
+
+
+border: 2px solid red;
+
+}
